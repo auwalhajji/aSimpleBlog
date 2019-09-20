@@ -1,0 +1,63 @@
+{
+  "blog": [
+    {
+      "id": 1,
+      "title": "Welcome to our new blog page",
+      "post": "Sed lacus. Donec lectus. Nullam pretium nibh ut turpis. Nam bibendum. In nulla tortor, elementum ipsum. Proin imperdiet est. Phasellus dapibus semper urna. Pellentesque ornare, orci in felis. Donec ut ante. In id eros. Suspendisse lacus turpis, cursus egestas at sem.",
+      "date": "17-Sept, 2019",
+      "by": "Admin",
+      "comments": [
+        {
+          "date": "Tue Sep 17 2019",
+          "text": "what ever i type here"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Decagon group has just address a group of aspiring decadevs.",
+      "post": "Sed lacus. Donec lectus. Nullam pretium nibh ut turpis. Nam bibendum. In nulla tortor, elementum ipsum. Proin imperdiet est. Phasellus dapibus semper urna. Pellentesque ornare, orci in felis. Donec ut ante. In id eros. Suspendisse lacus turpis, cursus egestas at sem.",
+      "date": "18-Sept, 2019",
+      "by": "Admin",
+      "comments": [
+        {
+          "date": "Wed Sep 18 2019",
+          "text": "some says its really an awesome experience."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Decagon group has just address a group of aspiring decadevs.",
+      "post": "Sed lacus. Donec lectus. Nullam pretium nibh ut turpis. Nam bibendum. In nulla tortor, elementum ipsum. Proin imperdiet est. Phasellus dapibus semper urna. Pellentesque ornare, orci in felis. Donec ut ante. In id eros. Suspendisse lacus turpis, cursus egestas at sem.",
+      "date": "18-Sept, 2019",
+      "by": "Admin",
+      "comments": [
+        {
+          "date": "Wed Sep 18 2019",
+          "text": "some says its really an awesome experience."
+        }
+      ]
+    },
+    {
+      "title": "Just testing adding new post script",
+      "date": "9 Sept 2019",
+      "post": "I thought it worked!",
+      "id": 4
+    },
+    {
+      "title": "Just testing adding new post script",
+      "date": "9 Sept 2019",
+      "post": "I thought it worked!",
+      "id": 5
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "username": "Admin",
+      "password": "admin",
+      "user": "admin"
+    }
+  ]
+}
